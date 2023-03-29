@@ -1,0 +1,17 @@
+.sidebar{
+    text-align: center;
+    border: 2px solid greenyellow;
+    margin-top: 10px;
+}
+.btn{
+    border: 2px solid rosybrown;
+    margin: 5px;
+    padding: 5px;
+}
+.btn button{
+    background-color: chartreuse;
+    margin: 2px;
+}
+.btn input{
+    margin: 5px 0;
+}

@@ -1,0 +1,19 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    height: 80px;
+    background-color: black;
+    color: chartreuse;
+    align-items: center;
+}
+.nav-left:hover{
+    color:rgb(9, 238, 124);
+}
+.nav-right a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.nav-right a:hover{
+    color: rgb(3, 253, 149);
+}

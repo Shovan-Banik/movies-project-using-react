@@ -1,0 +1,12 @@
+.movie{
+    border: 2px solid greenyellow;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.movie img{
+    width: 30%;
+}
+.movie button{
+    background-color: chartreuse;
+}
